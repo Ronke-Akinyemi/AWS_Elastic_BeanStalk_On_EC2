@@ -1,5 +1,4 @@
 name: Deploy React Application in BeanStalk
-
 on:
   push:
     branches:
